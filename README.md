@@ -5,7 +5,8 @@
     <b>Instagram Auto Exploit</b><br>
     </p>
 <hr>
-
+<h2 id="contact"📢 Important note</h2>
+<p >If you encounter restrictions on using the API, you will need to change your ip address</p>
 <h2 id="contact">📧 Contact</h2>
 <p >
 <a href="https://t.me/sectoolfa"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
